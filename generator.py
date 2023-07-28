@@ -16,8 +16,7 @@ next(b)
 next(b)
 
 for i in b:
-    print(i)
-    
+    print(i)    
 list(b)
 
 a=[4,5,6,7,8]
