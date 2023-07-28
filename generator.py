@@ -10,7 +10,6 @@ def  normal():
     
 b=normal()
 b    
-
 normal
 next(b)
 next(b)
